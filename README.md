@@ -43,4 +43,7 @@ Cada herói possui um tipo diferente e executa um ataque correspondente.
 Os ataques foram implementados de forma dinâmica, podendo variar a cada execução do programa.
 
 Exemplo de saída:
-
+o mago atacou usando magia
+o guerreiro atacou usando espada
+o monge atacou usando artes marciais
+o ninja atacou usando shuriken
